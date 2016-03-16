@@ -54,7 +54,7 @@
 /******/ 	
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "998b79307a095ed24fcb"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "95f93ca78fd3bec5ec1c"; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentParents = []; // eslint-disable-line no-unused-vars
 /******/ 	
@@ -20761,7 +20761,8 @@
 	var App = function App() {
 	  return _react2.default.createElement(
 	    'div',
-	    null,
+	    { id: 'root', style: { textAlign: 'center' } },
+	    _react2.default.createElement('img', { src: 'images/Identity.png', style: _extends({ textAlign: 'center', width: '120px', height: 'auto' }, style, { marginBottom: '0px' }) }),
 	    _react2.default.createElement(
 	      'h1',
 	      { id: 'title', style: style },
@@ -21053,6 +21054,7 @@
 	      _react2.default.createElement(_PortfolioItem2.default, { href: '.', src: 'images/Data1.png', text: 'Data analysis' }),
 	      _react2.default.createElement(_PortfolioItem2.default, { href: '.', src: 'images/Outdoor1.jpg', text: 'Outdoor sports' }),
 	      _react2.default.createElement(_PortfolioItem2.default, { href: '.', src: 'images/Lidl1.png', text: 'Interaction programming sandbox' }),
+	      _react2.default.createElement(_PortfolioItem2.default, { href: 'http://www.sterblue.com/#!home/bc48z', src: 'images/Sterblue1.jpg', text: 'Sterblue UAV inspections' }),
 	      _react2.default.createElement(_PortfolioItem2.default, { href: '.', src: 'images/Lidl2.png', text: 'Interaction programming sandbox' }),
 	      _react2.default.createElement(_PortfolioItem2.default, { href: '.', src: 'images/Photo2.jpg', text: 'Photography' }),
 	      _react2.default.createElement(_PortfolioItem2.default, { href: 'http://www.isae.fr/fr/actualites/programme_d_ouverture_sociale_l_isae_parrains_temoignent.html', src: 'images/Social1.jpg', text: 'Social actions' }),
@@ -21073,6 +21075,24 @@
 	      _react2.default.createElement(_PortfolioItem2.default, { href: '.', src: 'images/CGI2.jpg', text: 'Computer generated imagery' }),
 	      _react2.default.createElement(_PortfolioItem2.default, { href: '.', src: 'images/Math1.jpg', text: 'Using maths to rant' }),
 	      _react2.default.createElement(_PortfolioItem2.default, { href: 'http://supaero.isae.fr/fr/galerie_photos/aerodrome_lasbordes.html', src: 'images/Fly1.jpg', text: 'Flying' })
+	    ),
+	    _react2.default.createElement(
+	      'p',
+	      { style: _extends({ textAlign: 'center' }, style) },
+	      'Made by ',
+	      _react2.default.createElement(
+	        'a',
+	        { href: 'http://crubier.net' },
+	        'Crubier'
+	      ),
+	      ' with ',
+	      _react2.default.createElement(_FontAwesome2.default, { name: 'heart' }),
+	      ', source on ',
+	      _react2.default.createElement(
+	        'a',
+	        { href: 'https://github.com/crubier/crubier.github.io' },
+	        'Github'
+	      )
 	    )
 	  );
 	};
