@@ -8,12 +8,10 @@ import NpmLogo from './NpmLogo';
 import ResearchgateLogo from './ResearchgateLogo';
 import { Parallax, Background } from './Parallax';
 import PortfolioItem from './PortfolioItem';
-import './normalize.css';
-import './app.css';
 
-const style = {margin: '64px'};
+const style = {margin: '64px', };
 
-const App = () => (<div>
+const App = () => (<div id="root">
   <h1 id="title" style={style}>Vincent Lecrubier</h1>
 
   <ul style={style}>
