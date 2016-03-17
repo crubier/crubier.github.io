@@ -1,12 +1,12 @@
 'use strict';
 
 import React from 'react';
-import TiltShift from './TiltShift';
-import ImageLoader from './ImageLoader';
+// import TiltShift from './TiltShift';
+// import ImageLoader from './ImageLoader';
 import FontAwesome from './FontAwesome';
 import NpmLogo from './NpmLogo';
 import ResearchgateLogo from './ResearchgateLogo';
-import { Parallax, Background } from './Parallax';
+// import { Parallax, Background } from './Parallax';
 import PortfolioItem from './PortfolioItem';
 
 const style = {margin: '64px'};
