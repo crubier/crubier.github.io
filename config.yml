@@ -1,0 +1,50 @@
+baseurl: http://crubier.github.io/
+title: Vincent Lecrubier
+theme: hugo-creative-portfolio-theme
+languageCode: en-us
+disqusShortname: crubier
+googleAnalytics: UA-92251744-1
+params:
+  style: sea
+  description: Describe your website
+  copyright: "&copy;2017 Vincent Lecrubier"
+  sidebarAbout:
+  - I am an entrepreneur, a computer science PhD, an aerospace engineer and an olympic kayaker.
+  - Originally from Rennes, France, currently based somewhere between Paris, Toulouse, Nantes, Nice and London.
+  email: vincent.lecrubier@gmail.com
+  social:
+    facebook: https://www.facebook.com/vincent.lecrubier
+    googleplus: https://plus.google.com/115997832946456419388
+    email: vincent.lecrubier@gmail.com
+    phone: +33679709196
+    twitter: https://twitter.com/vlecrubier
+    linkedin: https://www.linkedin.com/in/crubier/
+    stackoverflow: http://meta.stackoverflow.com/users/2371254/vincent-lecrubier
+    instagram: https://www.instagram.com/crubier/
+    github: https://github.com/crubier
+    maps: https://goo.gl/maps/VibbjV5G5Go
+    web: http://crubier.net
+    wikipedia: https://en.wikipedia.org/wiki/Vincent_Lecrubier
+    wikidata: https://www.wikidata.org/wiki/Q3559711
+    jsfiddle: https://jsfiddle.net/user/Crubier/
+    npmjs: https://www.npmjs.com/~crubier
+    crunchbase: https://www.crunchbase.com/user/234257
+    hacker-news: https://news.ycombinator.com/user?id=crubier
+    reddit: https://www.reddit.com/user/crubier/
+    research-gate: https://www.researchgate.net/profile/Vincent_Lecrubier
+    slideshare: http://fr.slideshare.net/VincentLecrubier
+    slides: https://slides.com/crubier
+    youtube: https://www.youtube.com/user/120crubier
+    livecoding: https://www.livecoding.tv/crubier
+    mixcloud: https://www.mixcloud.com/superchouette/
+    soundcloud: https://soundcloud.com/superchouette
+    quora: http://www.quora.com/Vincent-Lecrubier
+    pinterest: https://www.pinterest.com/crubier/
+    lequipe: http://www.lequipe.fr/Jo/JoFicheAthlete24878.html
+  navlinks:
+  - name: Home
+    url: ''
+  - name: About
+    url: about/
+  - name: Contact
+    url: contact/
