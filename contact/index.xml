@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contacts on Vincent Lecrubier</title>
-    <link>http://crubier.github.io/contact/index.xml</link>
+    <link>https://crubier.github.io/contact/index.xml</link>
     <description>Recent content in Contacts on Vincent Lecrubier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Vincent Lecrubier</copyright>
     <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
-    <atom:link href="http://crubier.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://crubier.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Get in touch</title>
-      <link>http://crubier.github.io/contact/</link>
+      <link>https://crubier.github.io/contact/</link>
       <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
       
-      <guid>http://crubier.github.io/contact/</guid>
+      <guid>https://crubier.github.io/contact/</guid>
       <description></description>
     </item>
     

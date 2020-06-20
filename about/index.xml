@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Vincent Lecrubier</title>
-    <link>http://crubier.github.io/about/index.xml</link>
+    <link>https://crubier.github.io/about/index.xml</link>
     <description>Recent content in Abouts on Vincent Lecrubier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Vincent Lecrubier</copyright>
     <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate>
-    <atom:link href="http://crubier.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://crubier.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About me</title>
-      <link>http://crubier.github.io/about/</link>
+      <link>https://crubier.github.io/about/</link>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
-      <guid>http://crubier.github.io/about/</guid>
+      <guid>https://crubier.github.io/about/</guid>
       <description>
 
 &lt;p&gt;French &lt;strong&gt;Computer science PhD, entrepreneur, aerospace engineer, Olympic kayaker&lt;/strong&gt;. A massive geek in everything related to Aerospace, Computer Science and new technologies.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://crubier.github.io/img/Identity.png&#34; alt=&#34;This is me&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://crubier.github.io/img/Identity.png&#34; alt=&#34;This is me&#34; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;professional-experience&#34;&gt;Professional experience&lt;/h4&gt;
 

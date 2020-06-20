@@ -1,6 +1,6 @@
 # Crubier.net
 
-This is the source for the website [crubier.net](http://crubier.github.io/)
+This is the source for the website [crubier.net](https://crubier.github.io/)
 
 Using [webpack](http://webpack.github.io/), [babel](https://babeljs.io/), [react](https://facebook.github.io/react/).
 

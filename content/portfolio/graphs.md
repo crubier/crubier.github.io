@@ -7,7 +7,7 @@ title: Graph visualization
 weight: 5
 ---
 
-I developed libraries to visualize graphs, including [react-graph-vis](http://crubier.github.io/react-graph-vis/).
+I developed libraries to visualize graphs, including [react-graph-vis](https://crubier.github.io/react-graph-vis/).
 
 <!--more-->
 
